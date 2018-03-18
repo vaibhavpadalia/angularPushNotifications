@@ -1,0 +1,7 @@
+{
+  "short_name": "FireStarter",
+  "name": "Angular4 + Firebase Starter App",
+  "start_url": "/?utm_source=homescreen",
+
+  "gcm_sender_id": "103953800507"
+}
